@@ -1,0 +1,60 @@
+//============================================================================
+// Name        : LongestValidParentheses.cpp
+// Author      : Mohamed Dawoud
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+/*
+ 32. Longest Valid Parentheses
+
+Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
+
+Example 1:
+
+Input: "(()"
+Output: 2
+Explanation: The longest valid parentheses substring is "()"
+Example 2:
+
+Input: ")()())"
+Output: 4
+Explanation: The longest valid parentheses substring is "()()"
+ */
+#include <iostream>
+#include <stack>
+using namespace std;
+
+int longestValidParentheses(string s) {
+ int runningCount = 0;
+ int maxCount = 0;
+ stack <char> st;
+
+ for(int i=0; i<s.size(); i++)
+
+	 // invalid case
+	 // save max so far and reset the running counter
+	 if(s[i] == ')') {
+		 if(st.empty() == false) {
+			 maxCount = max(maxCount, runningCount);
+		 }
+		 else {
+			 st.pop();
+			 runningCount++;
+		 }
+	 } else if(s[i] == '(')  {
+		 st.push('(');
+	 }
+
+
+	 //valid case, increment running Count
+
+
+
+ return maxCount;
+}
+
+int main() {
+	cout << "" << endl; // prints 
+	return 0;
+}

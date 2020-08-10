@@ -1,0 +1,26 @@
+14:09:35 **** Incremental Build of configuration Debug for project SlidingWindowMaximum ****
+make all 
+Building file: ../src/SlidingWindowMaximum.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SlidingWindowMaximum.d" -MT"src/SlidingWindowMaximum.o" -o "src/SlidingWindowMaximum.o" "../src/SlidingWindowMaximum.cpp"
+../src/SlidingWindowMaximum.cpp: In function ‘std::vector<int> maxSlidingWindow(std::vector<int>&, int)’:
+../src/SlidingWindowMaximum.cpp:23:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for(i=1; i < k; i++) {
+              ~~^~~
+../src/SlidingWindowMaximum.cpp:35:57: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+      while( sliding.empty() == false && sliding.front() <= i-k) {
+                                         ~~~~~~~~~~~~~~~~^~~~~~
+../src/SlidingWindowMaximum.cpp: In function ‘int main()’:
+../src/SlidingWindowMaximum.cpp:56:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(int i =0; i< v.size(); i++) {
+                 ~^~~~~~~~~~
+Finished building: ../src/SlidingWindowMaximum.cpp
+ 
+Building target: SlidingWindowMaximum
+Invoking: Cross G++ Linker
+g++  -o "SlidingWindowMaximum"  ./src/SlidingWindowMaximum.o   
+Finished building target: SlidingWindowMaximum
+ 
+
+14:09:36 Build Finished. 0 errors, 3 warnings. (took 1s.69ms)
+

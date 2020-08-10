@@ -1,0 +1,6 @@
+10:25:53 **** Incremental Build of configuration Debug for project NextPermutation ****
+make all 
+make: Nothing to be done for 'all'.
+
+10:25:54 Build Finished. 0 errors, 0 warnings. (took 621ms)
+

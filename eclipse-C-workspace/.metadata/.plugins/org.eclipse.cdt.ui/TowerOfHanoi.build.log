@@ -1,0 +1,15 @@
+07:33:34 **** Incremental Build of configuration Debug for project TowerOfHanoi ****
+make all 
+Building file: ../src/TowerOfHanoi.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TowerOfHanoi.d" -MT"src/TowerOfHanoi.o" -o "src/TowerOfHanoi.o" "../src/TowerOfHanoi.cpp"
+Finished building: ../src/TowerOfHanoi.cpp
+ 
+Building target: TowerOfHanoi
+Invoking: Cross G++ Linker
+g++  -o "TowerOfHanoi"  ./src/TowerOfHanoi.o   
+Finished building target: TowerOfHanoi
+ 
+
+07:33:35 Build Finished. 0 errors, 0 warnings. (took 1s.147ms)
+

@@ -1,0 +1,15 @@
+17:36:29 **** Incremental Build of configuration Debug for project ReverseStackRecursively ****
+make all 
+Building file: ../src/ReverseStackRecursively.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ReverseStackRecursively.d" -MT"src/ReverseStackRecursively.o" -o "src/ReverseStackRecursively.o" "../src/ReverseStackRecursively.cpp"
+Finished building: ../src/ReverseStackRecursively.cpp
+ 
+Building target: ReverseStackRecursively
+Invoking: Cross G++ Linker
+g++  -o "ReverseStackRecursively"  ./src/ReverseStackRecursively.o   
+Finished building target: ReverseStackRecursively
+ 
+
+17:36:30 Build Finished. 0 errors, 0 warnings. (took 1s.129ms)
+

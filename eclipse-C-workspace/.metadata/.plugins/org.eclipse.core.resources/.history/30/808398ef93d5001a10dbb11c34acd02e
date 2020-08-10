@@ -1,0 +1,16 @@
+//============================================================================
+// Name        : ReverseStackRecursively.cpp
+// Author      : Mohamed Dawoud
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include <stack>
+using namespace std;
+
+int main() {
+	stack <int> st {1,2,3,4,5};
+	return 0;
+}

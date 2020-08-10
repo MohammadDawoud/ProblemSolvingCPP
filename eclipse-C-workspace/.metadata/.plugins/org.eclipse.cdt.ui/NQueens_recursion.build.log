@@ -1,0 +1,15 @@
+16:25:16 **** Incremental Build of configuration Debug for project NQueens_recursion ****
+make all 
+Building file: ../src/NQueens_recursion.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/NQueens_recursion.d" -MT"src/NQueens_recursion.o" -o "src/NQueens_recursion.o" "../src/NQueens_recursion.cpp"
+Finished building: ../src/NQueens_recursion.cpp
+ 
+Building target: NQueens_recursion
+Invoking: Cross G++ Linker
+g++  -o "NQueens_recursion"  ./src/NQueens_recursion.o   
+Finished building target: NQueens_recursion
+ 
+
+16:25:17 Build Finished. 0 errors, 0 warnings. (took 1s.225ms)
+

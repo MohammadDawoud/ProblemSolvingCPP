@@ -1,0 +1,29 @@
+11:12:50 **** Incremental Build of configuration Debug for project LetterCombinationsofPhoneNumber ****
+make all 
+Building file: ../src/LetterCombinationsofPhoneNumber.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LetterCombinationsofPhoneNumber.d" -MT"src/LetterCombinationsofPhoneNumber.o" -o "src/LetterCombinationsofPhoneNumber.o" "../src/LetterCombinationsofPhoneNumber.cpp"
+../src/LetterCombinationsofPhoneNumber.cpp: In function ‘void letterCombinationsRecursion(std::vector<std::__cxx11::basic_string<char> >, int, std::vector<std::__cxx11::basic_string<char> >&, char*, int)’:
+../src/LetterCombinationsofPhoneNumber.cpp:35:17: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  if (inputIndex == input.size()) {
+      ~~~~~~~~~~~^~~~~~~~~~~~~~~
+../src/LetterCombinationsofPhoneNumber.cpp: In function ‘std::vector<std::__cxx11::basic_string<char> > letterCombinations(std::__cxx11::string)’:
+../src/LetterCombinationsofPhoneNumber.cpp:57:6: warning: unused variable ‘buffIndex’ [-Wunused-variable]
+  int buffIndex = 0;
+      ^~~~~~~~~
+../src/LetterCombinationsofPhoneNumber.cpp:59:6: warning: unused variable ‘index’ [-Wunused-variable]
+  int index = 0;
+      ^~~~~
+../src/LetterCombinationsofPhoneNumber.cpp:60:9: warning: unused variable ‘lookupElement’ [-Wunused-variable]
+  char * lookupElement = nullptr ;
+         ^~~~~~~~~~~~~
+Finished building: ../src/LetterCombinationsofPhoneNumber.cpp
+ 
+Building target: LetterCombinationsofPhoneNumber
+Invoking: Cross G++ Linker
+g++  -o "LetterCombinationsofPhoneNumber"  ./src/LetterCombinationsofPhoneNumber.o   
+Finished building target: LetterCombinationsofPhoneNumber
+ 
+
+11:12:51 Build Finished. 0 errors, 4 warnings. (took 975ms)
+

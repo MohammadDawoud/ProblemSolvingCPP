@@ -1,0 +1,15 @@
+09:38:56 **** Incremental Build of configuration Debug for project BinaryTreeRightSideView ****
+make all 
+Building file: ../src/BinaryTreeRightSideView.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BinaryTreeRightSideView.d" -MT"src/BinaryTreeRightSideView.o" -o "src/BinaryTreeRightSideView.o" "../src/BinaryTreeRightSideView.cpp"
+Finished building: ../src/BinaryTreeRightSideView.cpp
+ 
+Building target: BinaryTreeRightSideView
+Invoking: Cross G++ Linker
+g++  -o "BinaryTreeRightSideView"  ./src/BinaryTreeRightSideView.o   
+Finished building target: BinaryTreeRightSideView
+ 
+
+09:38:57 Build Finished. 0 errors, 0 warnings. (took 974ms)
+

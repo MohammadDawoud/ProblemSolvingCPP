@@ -1,0 +1,19 @@
+23:17:48 **** Incremental Build of configuration Debug for project CombinationSumII ****
+make all 
+Building file: ../src/CombinationSumII.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/CombinationSumII.d" -MT"src/CombinationSumII.o" -o "src/CombinationSumII.o" "../src/CombinationSumII.cpp"
+../src/CombinationSumII.cpp: In function ‘void combinationSumRec(std::vector<int>&, int, int, std::vector<int>, std::vector<std::vector<int> >&)’:
+../src/CombinationSumII.cpp:56:24: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  if (candidates.size() == index)
+      ~~~~~~~~~~~~~~~~~~^~~~~~~~
+Finished building: ../src/CombinationSumII.cpp
+ 
+Building target: CombinationSumII
+Invoking: Cross G++ Linker
+g++  -o "CombinationSumII"  ./src/CombinationSumII.o   
+Finished building target: CombinationSumII
+ 
+
+23:17:49 Build Finished. 0 errors, 1 warnings. (took 1s.393ms)
+

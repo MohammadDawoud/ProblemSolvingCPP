@@ -1,0 +1,15 @@
+12:13:08 **** Incremental Build of configuration Debug for project BinaryTreeLevelOrderTraversalII ****
+make all 
+Building file: ../src/BinaryTreeLevelOrderTraversalII.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BinaryTreeLevelOrderTraversalII.d" -MT"src/BinaryTreeLevelOrderTraversalII.o" -o "src/BinaryTreeLevelOrderTraversalII.o" "../src/BinaryTreeLevelOrderTraversalII.cpp"
+Finished building: ../src/BinaryTreeLevelOrderTraversalII.cpp
+ 
+Building target: BinaryTreeLevelOrderTraversalII
+Invoking: Cross G++ Linker
+g++  -o "BinaryTreeLevelOrderTraversalII"  ./src/BinaryTreeLevelOrderTraversalII.o   
+Finished building target: BinaryTreeLevelOrderTraversalII
+ 
+
+12:13:09 Build Finished. 0 errors, 0 warnings. (took 1s.277ms)
+

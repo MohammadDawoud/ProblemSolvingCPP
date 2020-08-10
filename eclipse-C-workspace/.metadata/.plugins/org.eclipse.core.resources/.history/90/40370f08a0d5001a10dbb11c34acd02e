@@ -1,0 +1,31 @@
+//============================================================================
+// Name        : OnlineStockSpan.cpp
+// Author      : Mohamed Dawoud
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include <stack>
+#include <vector>
+
+using namespace std;
+
+class StockSpanner {
+public:
+    StockSpanner() {
+        stack<int> st;
+        vector<int> numberOfDays;
+    }
+
+    int next(int price) {
+    	if(st.emp)
+    }
+};
+
+
+int main() {
+	cout << "" << endl; // prints 
+	return 0;
+}

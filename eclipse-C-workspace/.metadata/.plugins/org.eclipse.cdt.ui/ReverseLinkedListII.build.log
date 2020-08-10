@@ -1,0 +1,15 @@
+08:47:29 **** Incremental Build of configuration Debug for project ReverseLinkedListII ****
+make all 
+Building file: ../src/ReverseLinkedListII.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ReverseLinkedListII.d" -MT"src/ReverseLinkedListII.o" -o "src/ReverseLinkedListII.o" "../src/ReverseLinkedListII.cpp"
+Finished building: ../src/ReverseLinkedListII.cpp
+ 
+Building target: ReverseLinkedListII
+Invoking: Cross G++ Linker
+g++  -o "ReverseLinkedListII"  ./src/ReverseLinkedListII.o   
+Finished building target: ReverseLinkedListII
+ 
+
+08:47:30 Build Finished. 0 errors, 0 warnings. (took 979ms)
+

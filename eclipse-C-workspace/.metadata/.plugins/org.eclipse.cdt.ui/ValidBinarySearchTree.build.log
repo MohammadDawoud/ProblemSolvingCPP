@@ -1,0 +1,15 @@
+11:21:15 **** Incremental Build of configuration Debug for project ValidBinarySearchTree ****
+make all 
+Building file: ../src/ValidBinarySearchTree.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ValidBinarySearchTree.d" -MT"src/ValidBinarySearchTree.o" -o "src/ValidBinarySearchTree.o" "../src/ValidBinarySearchTree.cpp"
+Finished building: ../src/ValidBinarySearchTree.cpp
+ 
+Building target: ValidBinarySearchTree
+Invoking: Cross G++ Linker
+g++  -o "ValidBinarySearchTree"  ./src/ValidBinarySearchTree.o   
+Finished building target: ValidBinarySearchTree
+ 
+
+11:21:17 Build Finished. 0 errors, 0 warnings. (took 1s.780ms)
+

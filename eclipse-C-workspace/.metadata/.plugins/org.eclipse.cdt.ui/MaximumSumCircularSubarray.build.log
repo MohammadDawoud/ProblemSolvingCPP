@@ -1,0 +1,6 @@
+08:16:34 **** Incremental Build of configuration Debug for project MaximumSumCircularSubarray ****
+make all 
+make: Nothing to be done for 'all'.
+
+08:16:34 Build Finished. 0 errors, 0 warnings. (took 519ms)
+

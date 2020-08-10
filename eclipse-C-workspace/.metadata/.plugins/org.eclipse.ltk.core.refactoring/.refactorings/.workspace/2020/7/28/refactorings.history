@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CountingBits&apos; to &apos;UniqueNumber_II&apos;" description="Rename resource &apos;CountingBits&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/CountingBits" name="UniqueNumber_II" stamp="1594099209619" updateReferences="true"/>
+</session>
