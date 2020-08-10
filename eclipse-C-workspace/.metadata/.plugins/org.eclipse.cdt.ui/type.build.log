@@ -1,6 +1,7 @@
-08:16:45 **** Incremental Build of configuration Debug for project type ****
-make all 
-make: Nothing to be done for 'all'.
+15:30:37 **** Clean-only build of configuration Debug for project type ****
+make clean 
+rm -rf  ./src/type.o  ./src/type.d  type
+ 
 
-08:16:45 Build Finished. 0 errors, 0 warnings. (took 518ms)
+15:30:38 Build Finished. 0 errors, 0 warnings. (took 577ms)
 

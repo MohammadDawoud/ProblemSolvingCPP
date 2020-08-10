@@ -1,6 +1,7 @@
-08:16:42 **** Incremental Build of configuration Debug for project maximum_subarray ****
-make all 
-make: Nothing to be done for 'all'.
+15:30:34 **** Clean-only build of configuration Debug for project maximum_subarray ****
+make clean 
+rm -rf  ./src/maximum_subarray.o  ./src/maximum_subarray.d  maximum_subarray
+ 
 
-08:16:43 Build Finished. 0 errors, 0 warnings. (took 518ms)
+15:30:34 Build Finished. 0 errors, 0 warnings. (took 520ms)
 

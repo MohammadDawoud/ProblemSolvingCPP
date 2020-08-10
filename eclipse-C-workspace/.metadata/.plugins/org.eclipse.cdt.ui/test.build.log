@@ -1,15 +1,7 @@
-13:13:01 **** Incremental Build of configuration Debug for project test ****
-make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-Finished building: ../src/test.cpp
- 
-Building target: test
-Invoking: GCC C++ Linker
-g++  -o "test"  ./src/test.o   
-Finished building target: test
+15:30:36 **** Clean-only build of configuration Debug for project test ****
+make clean 
+rm -rf  ./src/test.o  ./src/test.d  test
  
 
-13:13:02 Build Finished. 0 errors, 0 warnings. (took 1s.21ms)
+15:30:37 Build Finished. 0 errors, 0 warnings. (took 570ms)
 

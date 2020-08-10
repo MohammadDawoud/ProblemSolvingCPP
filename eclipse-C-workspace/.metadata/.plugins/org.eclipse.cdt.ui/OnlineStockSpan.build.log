@@ -1,18 +1,7 @@
-13:09:19 **** Build of configuration Debug for project OnlineStockSpan ****
-make all 
-Building file: ../src/OnlineStockSpan.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OnlineStockSpan.d" -MT"src/OnlineStockSpan.o" -o "src/OnlineStockSpan.o" "../src/OnlineStockSpan.cpp"
-../src/OnlineStockSpan.cpp:56:20: warning: inline variables are only available with -std=c++1z or -std=gnu++1z
-  inline static int numberOfDays  = 0;
-                    ^~~~~~~~~~~~
-Finished building: ../src/OnlineStockSpan.cpp
- 
-Building target: OnlineStockSpan
-Invoking: Cross G++ Linker
-g++  -o "OnlineStockSpan"  ./src/OnlineStockSpan.o   
-Finished building target: OnlineStockSpan
+15:30:24 **** Clean-only build of configuration Debug for project OnlineStockSpan ****
+make clean 
+rm -rf  ./src/OnlineStockSpan.o  ./src/OnlineStockSpan.d  OnlineStockSpan
  
 
-13:09:20 Build Finished. 0 errors, 1 warnings. (took 1s.324ms)
+15:30:24 Build Finished. 0 errors, 0 warnings. (took 519ms)
 

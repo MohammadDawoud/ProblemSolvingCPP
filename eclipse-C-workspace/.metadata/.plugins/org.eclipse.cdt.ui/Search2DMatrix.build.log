@@ -1,6 +1,7 @@
-08:16:37 **** Incremental Build of configuration Debug for project Search2DMatrix ****
-make all 
-make: Nothing to be done for 'all'.
+15:30:28 **** Clean-only build of configuration Debug for project Search2DMatrix ****
+make clean 
+rm -rf  ./src/Search2DMatrix.o  ./src/Search2DMatrix.d  Search2DMatrix
+ 
 
-08:16:37 Build Finished. 0 errors, 0 warnings. (took 517ms)
+15:30:28 Build Finished. 0 errors, 0 warnings. (took 519ms)
 

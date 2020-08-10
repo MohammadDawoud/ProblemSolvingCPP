@@ -1,6 +1,7 @@
-08:16:40 **** Incremental Build of configuration Debug for project TrappingRainWater ****
-make all 
-make: Nothing to be done for 'all'.
+15:30:31 **** Clean-only build of configuration Debug for project TrappingRainWater ****
+make clean 
+rm -rf  ./src/TrappingRainWater.o  ./src/TrappingRainWater.d  TrappingRainWater
+ 
 
-08:16:40 Build Finished. 0 errors, 0 warnings. (took 519ms)
+15:30:32 Build Finished. 0 errors, 0 warnings. (took 524ms)
 

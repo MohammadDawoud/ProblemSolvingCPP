@@ -1,6 +1,7 @@
-08:16:36 **** Incremental Build of configuration Debug for project PrimePalindrome ****
-make all 
-make: Nothing to be done for 'all'.
+15:30:25 **** Clean-only build of configuration Debug for project PrimePalindrome ****
+make clean 
+rm -rf  ./src/PrimePalindrome.o  ./src/PrimePalindrome.d  PrimePalindrome
+ 
 
-08:16:37 Build Finished. 0 errors, 0 warnings. (took 518ms)
+15:30:26 Build Finished. 0 errors, 0 warnings. (took 519ms)
 

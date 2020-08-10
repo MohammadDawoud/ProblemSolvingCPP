@@ -1,15 +1,7 @@
-11:30:47 **** Incremental Build of configuration Debug for project LargestRectangleInHistogram ****
-make all 
-Building file: ../src/LargestRectangleInHistogram.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LargestRectangleInHistogram.d" -MT"src/LargestRectangleInHistogram.o" -o "src/LargestRectangleInHistogram.o" "../src/LargestRectangleInHistogram.cpp"
-Finished building: ../src/LargestRectangleInHistogram.cpp
- 
-Building target: LargestRectangleInHistogram
-Invoking: Cross G++ Linker
-g++  -o "LargestRectangleInHistogram"  ./src/LargestRectangleInHistogram.o   
-Finished building target: LargestRectangleInHistogram
+15:30:19 **** Clean-only build of configuration Debug for project LargestRectangleInHistogram ****
+make clean 
+rm -rf  ./src/LargestRectangleInHistogram.o  ./src/LargestRectangleInHistogram.d  LargestRectangleInHistogram
  
 
-11:30:49 Build Finished. 0 errors, 0 warnings. (took 1s.230ms)
+15:30:19 Build Finished. 0 errors, 0 warnings. (took 522ms)
 

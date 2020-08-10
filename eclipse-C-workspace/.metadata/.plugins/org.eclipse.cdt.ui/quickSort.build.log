@@ -1,6 +1,7 @@
-08:16:43 **** Incremental Build of configuration Debug for project quickSort ****
-make all 
-make: Nothing to be done for 'all'.
+15:30:35 **** Clean-only build of configuration Debug for project quickSort ****
+make clean 
+rm -rf  ./src/quickSort.o  ./src/quickSort.d  quickSort
+ 
 
-08:16:43 Build Finished. 0 errors, 0 warnings. (took 518ms)
+15:30:35 Build Finished. 0 errors, 0 warnings. (took 527ms)
 

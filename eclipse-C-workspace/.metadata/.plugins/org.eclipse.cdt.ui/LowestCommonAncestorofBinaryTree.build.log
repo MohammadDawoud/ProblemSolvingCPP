@@ -1,15 +1,7 @@
-15:55:42 **** Build of configuration Debug for project LowestCommonAncestorofBinaryTree ****
-make all 
-Building file: ../src/LowestCommonAncestorofBinaryTree.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LowestCommonAncestorofBinaryTree.d" -MT"src/LowestCommonAncestorofBinaryTree.o" -o "src/LowestCommonAncestorofBinaryTree.o" "../src/LowestCommonAncestorofBinaryTree.cpp"
-Finished building: ../src/LowestCommonAncestorofBinaryTree.cpp
- 
-Building target: LowestCommonAncestorofBinaryTree
-Invoking: Cross G++ Linker
-g++  -o "LowestCommonAncestorofBinaryTree"  ./src/LowestCommonAncestorofBinaryTree.o   
-Finished building target: LowestCommonAncestorofBinaryTree
+15:30:21 **** Clean-only build of configuration Debug for project LowestCommonAncestorofBinaryTree ****
+make clean 
+rm -rf  ./src/LowestCommonAncestorofBinaryTree.o  ./src/LowestCommonAncestorofBinaryTree.d  LowestCommonAncestorofBinaryTree
  
 
-15:55:43 Build Finished. 0 errors, 0 warnings. (took 1s.68ms)
+15:30:22 Build Finished. 0 errors, 0 warnings. (took 569ms)
 

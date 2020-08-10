@@ -1,15 +1,7 @@
-13:46:54 **** Incremental Build of configuration Debug for project LinkedListCycle ****
-make all 
-Building file: ../src/LinkedListCycle.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LinkedListCycle.d" -MT"src/LinkedListCycle.o" -o "src/LinkedListCycle.o" "../src/LinkedListCycle.cpp"
-Finished building: ../src/LinkedListCycle.cpp
- 
-Building target: LinkedListCycle
-Invoking: Cross G++ Linker
-g++  -o "LinkedListCycle"  ./src/LinkedListCycle.o   
-Finished building target: LinkedListCycle
+15:30:20 **** Clean-only build of configuration Debug for project LinkedListCycle ****
+make clean 
+rm -rf  ./src/LinkedListCycle.o  ./src/LinkedListCycle.d  LinkedListCycle
  
 
-13:46:55 Build Finished. 0 errors, 0 warnings. (took 1s.487ms)
+15:30:21 Build Finished. 0 errors, 0 warnings. (took 519ms)
 

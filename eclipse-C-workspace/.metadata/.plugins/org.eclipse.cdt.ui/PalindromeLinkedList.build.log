@@ -1,15 +1,7 @@
-15:34:55 **** Incremental Build of configuration Debug for project PalindromeLinkedList ****
-make all 
-Building file: ../src/PalindromeLinkedList.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PalindromeLinkedList.d" -MT"src/PalindromeLinkedList.o" -o "src/PalindromeLinkedList.o" "../src/PalindromeLinkedList.cpp"
-Finished building: ../src/PalindromeLinkedList.cpp
- 
-Building target: PalindromeLinkedList
-Invoking: Cross G++ Linker
-g++  -o "PalindromeLinkedList"  ./src/PalindromeLinkedList.o   
-Finished building target: PalindromeLinkedList
+15:30:24 **** Clean-only build of configuration Debug for project PalindromeLinkedList ****
+make clean 
+rm -rf  ./src/PalindromeLinkedList.o  ./src/PalindromeLinkedList.d  PalindromeLinkedList
  
 
-15:34:56 Build Finished. 0 errors, 0 warnings. (took 881ms)
+15:30:25 Build Finished. 0 errors, 0 warnings. (took 569ms)
 

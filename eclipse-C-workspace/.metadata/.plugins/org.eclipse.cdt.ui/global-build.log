@@ -1,12 +1,6 @@
-15:55:42 **** Build of configuration Debug for project LowestCommonAncestorofBinaryTree ****
+15:33:08 **** Build of configuration Debug for project ValidBinarySearchTree ****
 make all 
-Building file: ../src/LowestCommonAncestorofBinaryTree.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/LowestCommonAncestorofBinaryTree.d" -MT"src/LowestCommonAncestorofBinaryTree.o" -o "src/LowestCommonAncestorofBinaryTree.o" "../src/LowestCommonAncestorofBinaryTree.cpp"
-Finished building: ../src/LowestCommonAncestorofBinaryTree.cpp
- 
-Building target: LowestCommonAncestorofBinaryTree
-Invoking: Cross G++ Linker
-g++  -o "LowestCommonAncestorofBinaryTree"  ./src/LowestCommonAncestorofBinaryTree.o   
-Finished building target: LowestCommonAncestorofBinaryTree
- 
+make: Nothing to be done for 'all'.
+15:33:26 **** Incremental Build of configuration Debug for project ValidBinarySearchTree ****
+make all 
+make: Nothing to be done for 'all'.

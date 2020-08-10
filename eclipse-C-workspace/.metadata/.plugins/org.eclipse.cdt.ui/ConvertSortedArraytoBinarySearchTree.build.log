@@ -1,19 +1,7 @@
-22:56:04 **** Incremental Build of configuration Debug for project ConvertSortedArraytoBinarySearchTree ****
-make all 
-Building file: ../src/ConvertSortedArraytoBinarySearchTree.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ConvertSortedArraytoBinarySearchTree.d" -MT"src/ConvertSortedArraytoBinarySearchTree.o" -o "src/ConvertSortedArraytoBinarySearchTree.o" "../src/ConvertSortedArraytoBinarySearchTree.cpp"
-../src/ConvertSortedArraytoBinarySearchTree.cpp: In function ‘TreeNode* sortedArrayToBST(std::vector<int>&, int, int)’:
-../src/ConvertSortedArraytoBinarySearchTree.cpp:46:34: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-         } else if(start<0 || end >= nums.size()) //failsave condition
-                              ~~~~^~~~~~~~~~~~~~
-Finished building: ../src/ConvertSortedArraytoBinarySearchTree.cpp
- 
-Building target: ConvertSortedArraytoBinarySearchTree
-Invoking: Cross G++ Linker
-g++  -o "ConvertSortedArraytoBinarySearchTree"  ./src/ConvertSortedArraytoBinarySearchTree.o   
-Finished building target: ConvertSortedArraytoBinarySearchTree
+15:30:17 **** Clean-only build of configuration Debug for project ConvertSortedArraytoBinarySearchTree ****
+make clean 
+rm -rf  ./src/ConvertSortedArraytoBinarySearchTree.o  ./src/ConvertSortedArraytoBinarySearchTree.d  ConvertSortedArraytoBinarySearchTree
  
 
-22:56:05 Build Finished. 0 errors, 1 warnings. (took 1s.23ms)
+15:30:18 Build Finished. 0 errors, 0 warnings. (took 570ms)
 

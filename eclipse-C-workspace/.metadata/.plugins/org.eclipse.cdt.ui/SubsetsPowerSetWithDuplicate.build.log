@@ -1,6 +1,7 @@
-08:16:39 **** Incremental Build of configuration Debug for project SubsetsPowerSetWithDuplicate ****
-make all 
-make: Nothing to be done for 'all'.
+15:30:30 **** Clean-only build of configuration Debug for project SubsetsPowerSetWithDuplicate ****
+make clean 
+rm -rf  ./src/PowerSet.o  ./src/PowerSet.d  SubsetsPowerSetWithDuplicate
+ 
 
-08:16:40 Build Finished. 0 errors, 0 warnings. (took 518ms)
+15:30:31 Build Finished. 0 errors, 0 warnings. (took 535ms)
 

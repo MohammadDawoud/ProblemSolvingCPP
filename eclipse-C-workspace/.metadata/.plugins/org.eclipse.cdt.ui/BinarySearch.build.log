@@ -1,6 +1,7 @@
-08:16:31 **** Incremental Build of configuration Debug for project BinarySearch ****
-make all 
-make: Nothing to be done for 'all'.
+15:30:14 **** Clean-only build of configuration Debug for project BinarySearch ****
+make clean 
+rm -rf  ./src/BinarySearch.o  ./src/BinarySearch.d  BinarySearch
+ 
 
-08:16:31 Build Finished. 0 errors, 0 warnings. (took 629ms)
+15:30:15 Build Finished. 0 errors, 0 warnings. (took 741ms)
 

@@ -1,6 +1,7 @@
-08:16:35 **** Incremental Build of configuration Debug for project NumberofSubmatricesThatSumtoTarget ****
-make all 
-make: Nothing to be done for 'all'.
+15:30:23 **** Clean-only build of configuration Debug for project NumberofSubmatricesThatSumtoTarget ****
+make clean 
+rm -rf  ./src/NumberofSubmatricesThatSumtoTarget.o  ./src/NumberofSubmatricesThatSumtoTarget.d  NumberofSubmatricesThatSumtoTarget
+ 
 
-08:16:36 Build Finished. 0 errors, 0 warnings. (took 520ms)
+15:30:24 Build Finished. 0 errors, 0 warnings. (took 570ms)
 

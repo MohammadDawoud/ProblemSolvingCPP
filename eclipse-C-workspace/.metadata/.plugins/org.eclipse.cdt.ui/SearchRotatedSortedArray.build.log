@@ -1,6 +1,7 @@
-08:16:37 **** Incremental Build of configuration Debug for project SearchRotatedSortedArray ****
-make all 
-make: Nothing to be done for 'all'.
+15:30:28 **** Clean-only build of configuration Debug for project SearchRotatedSortedArray ****
+make clean 
+rm -rf  ./src/SearchRotatedSortedArray.o  ./src/SearchRotatedSortedArray.d  SearchRotatedSortedArray
+ 
 
-08:16:38 Build Finished. 0 errors, 0 warnings. (took 519ms)
+15:30:29 Build Finished. 0 errors, 0 warnings. (took 519ms)
 

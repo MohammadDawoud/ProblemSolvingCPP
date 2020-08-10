@@ -1,0 +1,6 @@
+*.log
+*.o
+*.d
+/Debug/
+core
+/.metadata/
