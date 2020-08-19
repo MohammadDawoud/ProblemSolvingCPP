@@ -6740,3 +6740,6 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.cdt.core 1 0 2020-08-17 10:46:14.746
 !MESSAGE Indexed 'HashMap' (1 sources, 174 headers) in 2.34 sec: 13,497 declarations; 21,257 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-08-19 09:22:42.040
+!MESSAGE Indexed 'Trie' (1 sources, 174 headers) in 1.84 sec: 13,497 declarations; 21,257 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.012%)

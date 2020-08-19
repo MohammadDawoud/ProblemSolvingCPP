@@ -1,166 +1,36 @@
-10:50:16 **** Incremental Build of configuration Debug for project Heap ****
+12:24:17 **** Build of configuration Debug for project Trie ****
 make all 
-Building file: ../src/KthSmallestElementSortedMatrix/KthSmallestElementSortedMatrix.cpp
+Building file: ../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/KthSmallestElementSortedMatrix/KthSmallestElementSortedMatrix.d" -MT"src/KthSmallestElementSortedMatrix/KthSmallestElementSortedMatrix.o" -o "src/KthSmallestElementSortedMatrix/KthSmallestElementSortedMatrix.o" "../src/KthSmallestElementSortedMatrix/KthSmallestElementSortedMatrix.cpp"
-../src/KthSmallestElementSortedMatrix/KthSmallestElementSortedMatrix.cpp: In function ‘int kthSmallest(std::vector<std::vector<int> >&, int)’:
-../src/KthSmallestElementSortedMatrix/KthSmallestElementSortedMatrix.cpp:43:28: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
-             if(heap.size() < k) {
-                ~~~~~~~~~~~~^~~
-Finished building: ../src/KthSmallestElementSortedMatrix/KthSmallestElementSortedMatrix.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.d" -MT"src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o" -o "src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o" "../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp"
+Finished building: ../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp
  
-Building target: Heap
+Building target: Trie
 Invoking: Cross G++ Linker
-g++  -o "Heap"  ./src/KthSmallestElementSortedMatrix/KthSmallestElementSortedMatrix.o   
-Finished building target: Heap
+g++  -o "Trie"  ./src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o   
+Finished building target: Trie
  
-
-10:50:18 Build Finished. 0 errors, 1 warnings. (took 1s.70ms)
-
-11:42:16 **** Incremental Build of configuration Debug for project test ****
+12:24:26 **** Incremental Build of configuration Debug for project Trie ****
 make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-../src/test.cpp: In function ‘int main()’:
-../src/test.cpp:49:1: error: expected ‘}’ at end of input
- }
- ^
-src/subdir.mk:18: recipe for target 'src/test.o' failed
-make: *** [src/test.o] Error 1
-"make all" terminated with exit code 2. Build might be incomplete.
-11:42:36 **** Incremental Build of configuration Debug for project test ****
+Building file: ../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.d" -MT"src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o" -o "src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o" "../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp"
+Finished building: ../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp
+ 
+Building target: Trie
+Invoking: Cross G++ Linker
+g++  -o "Trie"  ./src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o   
+Finished building target: Trie
+ 
+12:24:41 **** Incremental Build of configuration Debug for project Trie ****
 make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-Finished building: ../src/test.cpp
+Building file: ../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.d" -MT"src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o" -o "src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o" "../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp"
+Finished building: ../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp
  
-Building target: test
-Invoking: GCC C++ Linker
-g++  -o "test"  ./src/test.o   
-Finished building target: test
- 
-11:44:17 **** Incremental Build of configuration Debug for project test ****
-make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-Finished building: ../src/test.cpp
- 
-Building target: test
-Invoking: GCC C++ Linker
-g++  -o "test"  ./src/test.o   
-Finished building target: test
- 
-11:46:42 **** Incremental Build of configuration Debug for project test ****
-make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-Finished building: ../src/test.cpp
- 
-Building target: test
-Invoking: GCC C++ Linker
-g++  -o "test"  ./src/test.o   
-Finished building target: test
- 
-11:47:44 **** Incremental Build of configuration Debug for project test ****
-make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-Finished building: ../src/test.cpp
- 
-Building target: test
-Invoking: GCC C++ Linker
-g++  -o "test"  ./src/test.o   
-Finished building target: test
- 
-11:50:28 **** Incremental Build of configuration Debug for project test ****
-make all 
-make: Nothing to be done for 'all'.
-11:51:40 **** Incremental Build of configuration Debug for project test ****
-make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-Finished building: ../src/test.cpp
- 
-Building target: test
-Invoking: GCC C++ Linker
-g++  -o "test"  ./src/test.o   
-Finished building target: test
- 
-11:52:13 **** Incremental Build of configuration Debug for project test ****
-make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-Finished building: ../src/test.cpp
- 
-Building target: test
-Invoking: GCC C++ Linker
-g++  -o "test"  ./src/test.o   
-Finished building target: test
- 
-11:53:32 **** Incremental Build of configuration Debug for project test ****
-make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-Finished building: ../src/test.cpp
- 
-Building target: test
-Invoking: GCC C++ Linker
-g++  -o "test"  ./src/test.o   
-Finished building target: test
- 
-12:33:30 **** Incremental Build of configuration Debug for project test ****
-make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-Finished building: ../src/test.cpp
- 
-Building target: test
-Invoking: GCC C++ Linker
-g++  -o "test"  ./src/test.o   
-Finished building target: test
- 
-13:16:35 **** Incremental Build of configuration Debug for project test ****
-make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-Finished building: ../src/test.cpp
- 
-Building target: test
-Invoking: GCC C++ Linker
-g++  -o "test"  ./src/test.o   
-Finished building target: test
- 
-13:16:53 **** Incremental Build of configuration Debug for project test ****
-make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-Finished building: ../src/test.cpp
- 
-Building target: test
-Invoking: GCC C++ Linker
-g++  -o "test"  ./src/test.o   
-Finished building target: test
- 
-13:17:02 **** Incremental Build of configuration Debug for project test ****
-make all 
-Building file: ../src/test.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
-Finished building: ../src/test.cpp
- 
-Building target: test
-Invoking: GCC C++ Linker
-g++  -o "test"  ./src/test.o   
-Finished building target: test
+Building target: Trie
+Invoking: Cross G++ Linker
+g++  -o "Trie"  ./src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o   
+Finished building target: Trie
  
