@@ -1,36 +1,146 @@
-12:24:17 **** Build of configuration Debug for project Trie ****
+02:09:01 **** Build of configuration Debug for project hash_pair ****
 make all 
-Building file: ../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp
+Building file: ../src/hash_pair.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.d" -MT"src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o" -o "src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o" "../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp"
-Finished building: ../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/hash_pair.d" -MT"src/hash_pair.o" -o "src/hash_pair.o" "../src/hash_pair.cpp"
+Finished building: ../src/hash_pair.cpp
  
-Building target: Trie
+Building target: hash_pair
 Invoking: Cross G++ Linker
-g++  -o "Trie"  ./src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o   
-Finished building target: Trie
+g++  -o "hash_pair"  ./src/hash_pair.o   
+Finished building target: hash_pair
  
-12:24:26 **** Incremental Build of configuration Debug for project Trie ****
+02:09:25 **** Incremental Build of configuration Debug for project hash_pair ****
 make all 
-Building file: ../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.d" -MT"src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o" -o "src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o" "../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp"
-Finished building: ../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp
- 
-Building target: Trie
-Invoking: Cross G++ Linker
-g++  -o "Trie"  ./src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o   
-Finished building target: Trie
- 
-12:24:41 **** Incremental Build of configuration Debug for project Trie ****
+make: Nothing to be done for 'all'.
+02:09:35 **** Incremental Build of configuration Debug for project hash_pair ****
 make all 
-Building file: ../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp
+make: Nothing to be done for 'all'.
+02:10:22 **** Incremental Build of configuration Debug for project hash_pair ****
+make all 
+Building file: ../src/hash_pair.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.d" -MT"src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o" -o "src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o" "../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp"
-Finished building: ../src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/hash_pair.d" -MT"src/hash_pair.o" -o "src/hash_pair.o" "../src/hash_pair.cpp"
+Finished building: ../src/hash_pair.cpp
  
-Building target: Trie
+Building target: hash_pair
 Invoking: Cross G++ Linker
-g++  -o "Trie"  ./src/MaximumXORofTwoNumbersInArray/MaximumXORofTwoNumbersInArray.o   
-Finished building target: Trie
+g++  -o "hash_pair"  ./src/hash_pair.o   
+Finished building target: hash_pair
  
+02:11:03 **** Incremental Build of configuration Debug for project hash_pair ****
+make all 
+Building file: ../src/hash_pair.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/hash_pair.d" -MT"src/hash_pair.o" -o "src/hash_pair.o" "../src/hash_pair.cpp"
+Finished building: ../src/hash_pair.cpp
+ 
+Building target: hash_pair
+Invoking: Cross G++ Linker
+g++  -o "hash_pair"  ./src/hash_pair.o   
+Finished building target: hash_pair
+ 
+02:13:44 **** Incremental Build of configuration Debug for project hash_pair ****
+make all 
+Building file: ../src/hash_pair.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/hash_pair.d" -MT"src/hash_pair.o" -o "src/hash_pair.o" "../src/hash_pair.cpp"
+Finished building: ../src/hash_pair.cpp
+ 
+Building target: hash_pair
+Invoking: Cross G++ Linker
+g++  -o "hash_pair"  ./src/hash_pair.o   
+Finished building target: hash_pair
+ 
+02:16:33 **** Incremental Build of configuration Debug for project hash_pair ****
+make all 
+Building file: ../src/hash_pair.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/hash_pair.d" -MT"src/hash_pair.o" -o "src/hash_pair.o" "../src/hash_pair.cpp"
+Finished building: ../src/hash_pair.cpp
+ 
+Building target: hash_pair
+Invoking: Cross G++ Linker
+g++  -o "hash_pair"  ./src/hash_pair.o   
+Finished building target: hash_pair
+ 
+14:33:27 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../src/test.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
+../src/test.cpp: In function ‘int main()’:
+../src/test.cpp:30:20: error: ‘matrix’ was not declared in this scope
+             cout<< matrix[r][c]<<",";
+                    ^~~~~~
+../src/test.cpp:30:20: note: suggested alternative: ‘main’
+             cout<< matrix[r][c]<<",";
+                    ^~~~~~
+                    main
+../src/test.cpp:42:20: error: ‘matrix’ was not declared in this scope
+             cout<< matrix[r][c]<<",";
+                    ^~~~~~
+../src/test.cpp:42:20: note: suggested alternative: ‘main’
+             cout<< matrix[r][c]<<",";
+                    ^~~~~~
+                    main
+../src/test.cpp:23:6: warning: unused variable ‘x’ [-Wunused-variable]
+  int x[9][10]={0};
+      ^
+src/subdir.mk:18: recipe for target 'src/test.o' failed
+make: *** [src/test.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+14:33:58 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../src/test.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
+../src/test.cpp: In function ‘int main()’:
+../src/test.cpp:31:20: error: ‘matrix’ was not declared in this scope
+             cout<< matrix[r][c]<<",";
+                    ^~~~~~
+../src/test.cpp:31:20: note: suggested alternative: ‘main’
+             cout<< matrix[r][c]<<",";
+                    ^~~~~~
+                    main
+../src/test.cpp:43:20: error: ‘matrix’ was not declared in this scope
+             cout<< matrix[r][c]<<",";
+                    ^~~~~~
+../src/test.cpp:43:20: note: suggested alternative: ‘main’
+             cout<< matrix[r][c]<<",";
+                    ^~~~~~
+                    main
+src/subdir.mk:18: recipe for target 'src/test.o' failed
+make: *** [src/test.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+14:34:06 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../src/test.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
+../src/test.cpp: In function ‘int main()’:
+../src/test.cpp:42:20: error: ‘matrix’ was not declared in this scope
+             cout<< matrix[r][c]<<",";
+                    ^~~~~~
+../src/test.cpp:42:20: note: suggested alternative: ‘main’
+             cout<< matrix[r][c]<<",";
+                    ^~~~~~
+                    main
+src/subdir.mk:18: recipe for target 'src/test.o' failed
+make: *** [src/test.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+14:34:31 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../src/test.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.cpp"
+Finished building: ../src/test.cpp
+ 
+Building target: test
+Invoking: GCC C++ Linker
+g++  -o "test"  ./src/test.o   
+Finished building target: test
+ 
+14:34:38 **** Incremental Build of configuration Debug for project test ****
+make all 
+make: Nothing to be done for 'all'.
