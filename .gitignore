@@ -3,4 +3,4 @@
 *.d
 /Debug/
 core
-/.metadata/
+/eclipse-C-workspace/.metadata
