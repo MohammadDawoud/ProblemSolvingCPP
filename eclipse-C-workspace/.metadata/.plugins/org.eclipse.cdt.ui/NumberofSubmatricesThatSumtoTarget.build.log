@@ -1,7 +1,0 @@
-15:30:23 **** Clean-only build of configuration Debug for project NumberofSubmatricesThatSumtoTarget ****
-make clean 
-rm -rf  ./src/NumberofSubmatricesThatSumtoTarget.o  ./src/NumberofSubmatricesThatSumtoTarget.d  NumberofSubmatricesThatSumtoTarget
- 
-
-15:30:24 Build Finished. 0 errors, 0 warnings. (took 570ms)
-

@@ -1,7 +1,0 @@
-15:30:30 **** Clean-only build of configuration Debug for project SubsetsPowerSet ****
-make clean 
-rm -rf  ./src/PowerSet.o  ./src/PowerSet.d  SubsetsPowerSet
- 
-
-15:30:30 Build Finished. 0 errors, 0 warnings. (took 569ms)
-

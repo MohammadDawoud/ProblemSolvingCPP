@@ -1,7 +1,0 @@
-15:30:29 **** Clean-only build of configuration Debug for project SlidingWindowMaximum ****
-make clean 
-rm -rf  ./src/SlidingWindowMaximum.o  ./src/SlidingWindowMaximum.d  SlidingWindowMaximum
- 
-
-15:30:29 Build Finished. 0 errors, 0 warnings. (took 520ms)
-

@@ -1,7 +1,0 @@
-15:30:22 **** Clean-only build of configuration Debug for project MaximumSumCircularSubarray ****
-make clean 
-rm -rf  ./src/MaximumSumCircularSubarray.o  ./src/MaximumSumCircularSubarray.d  MaximumSumCircularSubarray
- 
-
-15:30:22 Build Finished. 0 errors, 0 warnings. (took 520ms)
-

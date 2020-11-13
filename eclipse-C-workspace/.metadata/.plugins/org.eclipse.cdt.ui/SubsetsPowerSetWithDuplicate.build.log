@@ -1,7 +1,0 @@
-15:30:30 **** Clean-only build of configuration Debug for project SubsetsPowerSetWithDuplicate ****
-make clean 
-rm -rf  ./src/PowerSet.o  ./src/PowerSet.d  SubsetsPowerSetWithDuplicate
- 
-
-15:30:31 Build Finished. 0 errors, 0 warnings. (took 535ms)
-

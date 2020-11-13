@@ -1,7 +1,0 @@
-15:30:35 **** Clean-only build of configuration Debug for project spriral_print ****
-make clean 
-rm -rf  ./src/spriral_print.o  ./src/spriral_print.d  spriral_print
- 
-
-15:30:36 Build Finished. 0 errors, 0 warnings. (took 634ms)
-

@@ -1,7 +1,0 @@
-15:30:28 **** Clean-only build of configuration Debug for project Search2DMatrix ****
-make clean 
-rm -rf  ./src/Search2DMatrix.o  ./src/Search2DMatrix.d  Search2DMatrix
- 
-
-15:30:28 Build Finished. 0 errors, 0 warnings. (took 519ms)
-

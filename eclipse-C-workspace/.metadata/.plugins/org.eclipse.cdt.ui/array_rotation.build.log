@@ -1,7 +1,0 @@
-15:30:33 **** Clean-only build of configuration Debug for project array_rotation ****
-make clean 
-rm -rf  ./src/array_rotation.o  ./src/array_rotation.d  array_rotation
- 
-
-15:30:33 Build Finished. 0 errors, 0 warnings. (took 519ms)
-

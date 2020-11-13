@@ -1,7 +1,0 @@
-15:30:35 **** Clean-only build of configuration Debug for project quickSort ****
-make clean 
-rm -rf  ./src/quickSort.o  ./src/quickSort.d  quickSort
- 
-
-15:30:35 Build Finished. 0 errors, 0 warnings. (took 527ms)
-

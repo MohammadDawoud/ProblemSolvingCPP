@@ -1,7 +1,0 @@
-15:30:19 **** Clean-only build of configuration Debug for project LetterCombinationsofPhoneNumber ****
-make clean 
-rm -rf  ./src/LetterCombinationsofPhoneNumber.o  ./src/LetterCombinationsofPhoneNumber.d  LetterCombinationsofPhoneNumber
- 
-
-15:30:20 Build Finished. 0 errors, 0 warnings. (took 531ms)
-

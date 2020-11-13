@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;PalindromeLinkedList/src/ReverseLinkedListII.cpp&apos; to &apos;PalindromeLinkedList.cpp&apos;" description="Rename resource &apos;ReverseLinkedListII.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/ReverseLinkedListII.cpp" name="PalindromeLinkedList.cpp" stamp="1596454839234" updateReferences="true"/>
-</session>

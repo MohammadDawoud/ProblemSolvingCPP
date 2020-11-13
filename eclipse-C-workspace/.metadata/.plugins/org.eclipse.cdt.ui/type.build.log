@@ -1,7 +1,0 @@
-15:30:37 **** Clean-only build of configuration Debug for project type ****
-make clean 
-rm -rf  ./src/type.o  ./src/type.d  type
- 
-
-15:30:38 Build Finished. 0 errors, 0 warnings. (took 577ms)
-

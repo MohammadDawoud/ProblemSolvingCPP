@@ -1,7 +1,0 @@
-15:30:17 **** Clean-only build of configuration Debug for project ConvertSortedArraytoBinarySearchTree ****
-make clean 
-rm -rf  ./src/ConvertSortedArraytoBinarySearchTree.o  ./src/ConvertSortedArraytoBinarySearchTree.d  ConvertSortedArraytoBinarySearchTree
- 
-
-15:30:18 Build Finished. 0 errors, 0 warnings. (took 570ms)
-

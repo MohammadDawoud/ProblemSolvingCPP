@@ -1,7 +1,0 @@
-15:30:27 **** Clean-only build of configuration Debug for project ReverseStackRecursively ****
-make clean 
-rm -rf  ./src/ReverseStackRecursively.o  ./src/ReverseStackRecursively.d  ReverseStackRecursively
- 
-
-15:30:28 Build Finished. 0 errors, 0 warnings. (took 568ms)
-

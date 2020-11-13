@@ -1,7 +1,0 @@
-15:30:24 **** Clean-only build of configuration Debug for project PalindromeLinkedList ****
-make clean 
-rm -rf  ./src/PalindromeLinkedList.o  ./src/PalindromeLinkedList.d  PalindromeLinkedList
- 
-
-15:30:25 Build Finished. 0 errors, 0 warnings. (took 569ms)
-

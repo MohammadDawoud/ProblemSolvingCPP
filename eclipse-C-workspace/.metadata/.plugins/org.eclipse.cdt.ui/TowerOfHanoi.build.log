@@ -1,7 +1,0 @@
-15:30:31 **** Clean-only build of configuration Debug for project TowerOfHanoi ****
-make clean 
-rm -rf  ./src/TowerOfHanoi.o  ./src/TowerOfHanoi.d  TowerOfHanoi
- 
-
-15:30:31 Build Finished. 0 errors, 0 warnings. (took 570ms)
-

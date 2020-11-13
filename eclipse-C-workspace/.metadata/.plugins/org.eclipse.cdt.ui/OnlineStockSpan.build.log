@@ -1,7 +1,0 @@
-15:30:24 **** Clean-only build of configuration Debug for project OnlineStockSpan ****
-make clean 
-rm -rf  ./src/OnlineStockSpan.o  ./src/OnlineStockSpan.d  OnlineStockSpan
- 
-
-15:30:24 Build Finished. 0 errors, 0 warnings. (took 519ms)
-

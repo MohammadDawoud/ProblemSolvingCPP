@@ -1,7 +1,0 @@
-15:30:23 **** Clean-only build of configuration Debug for project NextPermutation ****
-make clean 
-rm -rf  ./src/NextPermutation.o  ./src/NextPermutation.d  NextPermutation
- 
-
-15:30:23 Build Finished. 0 errors, 0 warnings. (took 520ms)
-

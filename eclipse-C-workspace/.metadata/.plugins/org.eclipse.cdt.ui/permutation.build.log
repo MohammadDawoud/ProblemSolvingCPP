@@ -1,7 +1,0 @@
-15:30:34 **** Clean-only build of configuration Debug for project permutation ****
-make clean 
-rm -rf  ./src/permutation.o  ./src/permutation.d  permutation
- 
-
-15:30:35 Build Finished. 0 errors, 0 warnings. (took 569ms)
-

@@ -1,7 +1,0 @@
-15:30:17 **** Clean-only build of configuration Debug for project CombinationSumII ****
-make clean 
-rm -rf  ./src/CombinationSumII.o  ./src/CombinationSumII.d  CombinationSumII
- 
-
-15:30:17 Build Finished. 0 errors, 0 warnings. (took 619ms)
-

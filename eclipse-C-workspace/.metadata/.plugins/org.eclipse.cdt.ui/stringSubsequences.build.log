@@ -1,7 +1,0 @@
-15:30:36 **** Clean-only build of configuration Debug for project stringSubsequences ****
-make clean 
-rm -rf  ./src/stringSubsequences.o  ./src/stringSubsequences.d  stringSubsequences
- 
-
-15:30:36 Build Finished. 0 errors, 0 warnings. (took 518ms)
-

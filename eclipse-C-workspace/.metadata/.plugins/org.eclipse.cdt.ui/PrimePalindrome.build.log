@@ -1,7 +1,0 @@
-15:30:25 **** Clean-only build of configuration Debug for project PrimePalindrome ****
-make clean 
-rm -rf  ./src/PrimePalindrome.o  ./src/PrimePalindrome.d  PrimePalindrome
- 
-
-15:30:26 Build Finished. 0 errors, 0 warnings. (took 519ms)
-

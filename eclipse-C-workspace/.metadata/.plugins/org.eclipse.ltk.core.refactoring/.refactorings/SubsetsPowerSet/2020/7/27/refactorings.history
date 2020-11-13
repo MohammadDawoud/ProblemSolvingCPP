@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;SubsetsPowerSet/src/spriral_print.cpp&apos; to &apos;powerSet.cpp&apos;" description="Rename resource &apos;spriral_print.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/spriral_print.cpp" name="powerSet.cpp" stamp="1593788418194" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;SubsetsPowerSet/src/powerSet.cpp&apos; to &apos;PowerSet.cpp&apos;" description="Rename resource &apos;powerSet.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/powerSet.cpp" name="PowerSet.cpp" stamp="1593788434247" updateReferences="true"/>
-</session>

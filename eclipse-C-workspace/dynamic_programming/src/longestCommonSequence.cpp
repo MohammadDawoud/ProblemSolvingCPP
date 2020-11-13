@@ -68,6 +68,7 @@ struct pair_hash {
 
        // unordered_map  <pair<int, int>,  int, pair_hash> dp;
        // return longestCommonSubsequence_dp(text1, text2, 0, 0, dp);
+    	// it is buffer it is used for calculation
 
        vector <vector<int>> buffer (text1.length()+1, vector<int>(text2.length()+1, 0)) ;
 
@@ -89,7 +90,7 @@ struct pair_hash {
 
 
 
-
+// it is better to use 2d array instead of the hash table
 
     int longestCommonSubsequence_dp(string text1, string text2, int i, int j, unordered_map  <pair<int, int>,  int, pair_hash> & dp) {
 
