@@ -1,6 +1,0 @@
-*.log
-*.o
-*.d
-/Debug/
-core
-./eclipse-C-workspace/.metadata
